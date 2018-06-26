@@ -1,7 +1,7 @@
 # Hangfire.Unity4
 
 [![Build status](https://ci.appveyor.com/api/projects/status/x5qmgwv3tolyfwbi?svg=true)](https://ci.appveyor.com/project/Araye/hangfire-unity4)
-
+[![NuGet](https://img.shields.io/nuget/v/Hangfire.Unity4.svg)](https://www.nuget.org/packages/Hangfire.Unity4/)
 
 This project is based on the [Hangfire.Unity](https://github.com/phenixdotnet/Hangfire.Unity) project with 2 chnages
 
