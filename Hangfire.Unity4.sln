@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangfire.Unity4", "Hangfire.Unity4\Hangfire.Unity4.csproj", "{7F454533-9F91-4ED4-B435-5A40B00C8473}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangfire.Unity4", "Hangfire.Unity4.csproj", "{7F454533-9F91-4ED4-B435-5A40B00C8473}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

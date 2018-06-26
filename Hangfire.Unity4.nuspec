@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Hamed Saeedi</authors>
+    <owners>Hamed Saeedi</owners>
+    <licenseUrl>https://github.com/Hameds/Hangfire.Unity4/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Hameds/Hangfire.Unity4</projectUrl>
+    <iconUrl>https://avatars1.githubusercontent.com/u/12849707</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>unity v4 support for Hangfire and optional dual lifetime manager (PerRequestOrHierarchicalLifeTimeManager)</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags></tags>
+  </metadata>
+</package>
